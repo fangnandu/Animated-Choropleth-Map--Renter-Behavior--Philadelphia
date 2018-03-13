@@ -1,5 +1,5 @@
-# animated choropleth map of philadelphia (census tract level)
-## Rent-Behavior-Preference-Change-Map-In-Philadelphia
+# Animated Choropleth Map of Philadelphia (census tract level)
+### Rent-Behavior-Preference-Change-Map-In-Philadelphia
 
  
 ## topic: tenure situation :the percentage of house renter occupied 

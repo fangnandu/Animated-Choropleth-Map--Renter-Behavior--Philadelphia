@@ -1,6 +1,6 @@
-# Rent-Behavior-Preference-Change-Map-In-Philadelphia
+# animated choropleth map of philadelphia (census tract level)
+## Rent-Behavior-Preference-Change-Map-In-Philadelphia
 
-# Create an animated choropleth map of philadelphia( census tract level)
  
 ## topic: tenure situation :the percentage of house renter occupied 
 - time series : 2010 :2016 ( no earlier than 2010, in case of changing census boundaries)
@@ -30,3 +30,4 @@
     3. how to create the break using the ggplot, without define it early
     4. how to get more accessbile data from real estate
     5. when write the plot how to make it more clear without reconstruct the legend and other item's size.
+- ![Logic](https://github.com/fangnandu/Rent-Behavior-Preference-Change-Map-In-Philadelphia/blob/master/rent%20behavior%20perference%20change%20map.gif "Logic")
